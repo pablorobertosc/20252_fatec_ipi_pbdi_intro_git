@@ -3,4 +3,3 @@ def soma (a, b):
 
 def subtrair (a, b):
     return a - b
-a
